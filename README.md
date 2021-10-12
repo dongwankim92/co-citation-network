@@ -10,9 +10,3 @@ co-citation network analysis는 연구의 영향력을 측정하는 방법 중 �
 co-citation은 두 articles( or references)가 하나의 연구에 인용되었다면, 두 articles에 대해서 co-citation되었다고 표현한다.
 **bipartite network matrix A가 주어졌을때, T(A) x A 를 통해 co-citation matrix를 얻을 수 있다.
 
-A=
-  article1 article2 article3 
- a   1         0        0
- b   0         1        1
- c   1         1        0
- b   1         0        0    
